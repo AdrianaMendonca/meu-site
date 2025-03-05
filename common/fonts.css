@@ -22,5 +22,23 @@
 @font-face {
     font-family: 'arquifonte05';
     src: url("../assets/fonts/arquifonte05.woff2");
+
+}
+
+@font-face {
+    font-family: 'fonte1';
+    src: url("../assets/fonts/1.woff2");
+
+}
+
+@font-face {
+    font-family: 'fonte2';
+    src: url("../assets/fonts/2.woff2");
+
+}
+@font-face {
+    font-family: 'fonte3';
+    src: url("../assets/fonts/3.woff2");
+
 }
 
